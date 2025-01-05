@@ -1,0 +1,49 @@
+[Adblock Plus]
+! Title: Viber DNS Blocklist
+! Description: Blocks Ads, Tracking, Metrics in Viber Desktop Application
+! Last modified: 01 Jan 2025 20:38 UTC
+! Syntax: AdBlock
+! Number of entries: 42
+!
+||s-bid.rmp.rakuten.com^
+||ads-d.viber.com^
+||ads.aws.viber.com^
+||ads.viber.com^
+||api.mixpanel.com^
+||api.taboola.com^
+||rmp.rakuten.com^
+||s-imp.rmp.rakuten.com^
+||video.primis.tech^
+||media.cdn.viber.com^ 
+||ad.primis.tech^
+||ads.cdn.viber.com^
+||ams1-mobile.adnxs.com^
+||cdn.taboola.com^
+||contact.primis.tech^
+||data.mixpanel.com^
+||fra1-ib.adnxs.com^
+||images.taboola.com^
+||live-eu-am.primis.tech^
+||live-us-ny.primis.tech^
+||live.primis-amp.tech^
+||live.primis.tech^
+||locp-ir.viber.com^
+||mediation.adnxs.com^
+||pagead2.googlesyndication.com^
+||primis-amp.tech^
+||primis-d.openx.net^
+||primis.tech^
+||primisttd-d.openx.net^
+||rtb.primis.tech^
+||s-clk.rmp.rakuten.com^
+||s.pc.qq.com^
+||securepubads.g.doubleclick.net^
+||stats.viber.com^
+||sy.guanjia.qq.com^
+||syzs.qq.com^
+||tracking.viber.com^
+||www.primis.tech^
+||player.avplayer.com^
+||feed.avplayer.com^
+||fpagead2.googlesyndication.com^
+||fs-clk.rmp.rakuten.com^
