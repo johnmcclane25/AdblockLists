@@ -1,9 +1,9 @@
 [Adblock Plus]
 ! Title: Viber DNS Blocklist
 ! Description: Blocks Ads, Tracking, Metrics in Viber Desktop Application
-! Last modified: 01 Jan 2025 20:38 UTC
+! Last modified: 05 Jan 2025 15:15 UTC
 ! Syntax: AdBlock
-! Number of entries: 42
+! Number of entries: 41
 !
 ||s-bid.rmp.rakuten.com^
 ||ads-d.viber.com^

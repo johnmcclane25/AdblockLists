@@ -1,11 +1,10 @@
-﻿Adblock Plus
+﻿[Adblock Plus]
 ! Title: Russian fake news & propaganda DNS Blocklist
 ! Description: Blocks Russian Disinformation & propaganda websites
 ! Last modified: 05 Jan 2025 13:46 UTC
 ! Syntax: AdBlock
 ! Number of entries: 1748
 !
-
 ||20minuts.com^
 ||50statesoflie.com^
 ||Acrosstheline.press^
