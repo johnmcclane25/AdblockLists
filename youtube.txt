@@ -1,0 +1,27 @@
+[Adblock Plus]
+! Title: Youtube & Youtube Kids DNS Blocklist
+! Description: Blocks access to Youtube & Youtube Kids services
+! Last modified: 14 Jan 2025 18:33 UTC
+! Syntax: AdBlock
+! Number of entries: 19
+!
+||googlevideo.com^
+||ggpht.com^
+||ytimg.com^
+||youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
+||youtube.be^
+||youtube.co.uk^
+||youtube.de^
+||youtube.fr^
+||youtube.googleapis.com^
+||youtube.nl^
+||youtube.pl^
+||youtubeeducation.com^
+||youtubegaming.com^
+||youtubei.googleapis.com^
+||youtubekids.com^
+||yt3.ggpht.com^
+||s.youtube.com^
+||youtubeadservices.com^
