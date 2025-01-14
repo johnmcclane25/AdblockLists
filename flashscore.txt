@@ -3,7 +3,7 @@
 ! Description: Blocks ads for FlashScore application
 ! Last modified: 14 Jan 2025 21:25 UTC
 ! Syntax: AdBlock
-! Number of entries: 6
+! Number of entries: 7
 !
 ||advert.livesportmedia.eu^
 ||mobiadvert.livesportmedia.eu^

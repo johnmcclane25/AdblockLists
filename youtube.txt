@@ -3,7 +3,7 @@
 ! Description: Blocks access to Youtube & Youtube Kids services
 ! Last modified: 14 Jan 2025 18:33 UTC
 ! Syntax: AdBlock
-! Number of entries: 19
+! Number of entries: 20
 !
 ||googlevideo.com^
 ||ggpht.com^

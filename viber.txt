@@ -1,9 +1,9 @@
 [Adblock Plus]
 ! Title: Viber DNS Blocklist
 ! Description: Blocks Ads, Tracking, Metrics in Viber Desktop Application
-! Last modified: 14 Jan 2025 18:47 UTC
+! Last modified: 14 Jan 2025 22:17 UTC
 ! Syntax: AdBlock
-! Number of entries: 50
+! Number of entries: 42
 !
 ||s-bid.rmp.rakuten.com^
 ||ads-d.viber.com^
@@ -13,20 +13,13 @@
 ||api.taboola.com^
 ||rmp.rakuten.com^
 ||s-imp.rmp.rakuten.com^
-||video.primis.tech^
-||media.cdn.viber.com^ 
-||ad.primis.tech^
+||media.cdn.viber.com^
 ||ads.cdn.viber.com^
 ||ams1-mobile.adnxs.com^
 ||cdn.taboola.com^
-||contact.primis.tech^
 ||data.mixpanel.com^
 ||fra1-ib.adnxs.com^
 ||images.taboola.com^
-||live-eu-am.primis.tech^
-||live-us-ny.primis.tech^
-||live.primis-amp.tech^
-||live.primis.tech^
 ||locp-ir.viber.com^
 ||mediation.adnxs.com^
 ||pagead2.googlesyndication.com^
@@ -34,7 +27,6 @@
 ||primis-d.openx.net^
 ||primis.tech^
 ||primisttd-d.openx.net^
-||rtb.primis.tech^
 ||s-clk.rmp.rakuten.com^
 ||s.pc.qq.com^
 ||securepubads.g.doubleclick.net^
@@ -51,8 +43,7 @@
 ||venetia.iad.appboy.com^
 ||analytics.adjust.com^
 ||app-measurement.com^
-||tr-eu.adsmoloco.com^
-||cdn-f.adsmoloco.com^
+||adsmoloco.com^
 ||amazon-adsystem.com^
 ||app-analytics-services.com^
 ||googleads.g.doubleclick.net^
