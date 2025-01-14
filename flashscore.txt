@@ -1,9 +1,9 @@
 [Adblock Plus]
 ! Title: FlashScore APP DNS Blocklist
 ! Description: Blocks ads for FlashScore application
-! Last modified: 14 Jan 2025 21:04 UTC
+! Last modified: 14 Jan 2025 21:25 UTC
 ! Syntax: AdBlock
-! Number of entries: 7
+! Number of entries: 8
 !
 ||advert.livesportmedia.eu^
 ||mobiadvert.livesportmedia.eu^
@@ -13,3 +13,4 @@
 ||ad.doubleclick.net^
 ||googleads4.g.doubleclick.net^
 ||adsafeprotected.com^
+||survey.survicate.com^

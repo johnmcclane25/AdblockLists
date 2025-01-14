@@ -1,9 +1,9 @@
 ﻿[Adblock Plus]
 ! Title: Russian fake news & propaganda DNS Blocklist
 ! Description: Blocks Russian Disinformation & propaganda websites
-! Last modified: 05 Jan 2025 15:59 UTC
+! Last modified: 14 Jan 2025 21:32 UTC
 ! Syntax: AdBlock
-! Number of entries: 308
+! Number of entries: 326
 !
 ||lepoint.foo^
 ||obozrevatel.ltd^
@@ -313,3 +313,22 @@
 ||Newstop.africa^
 ||Britishattitudes.com^
 ||veteranstoday.com^
+||sputniknews.com^
+||sputnik-georgia.ru^
+||sputnik-tajikistan.ru^
+||tass.ru^
+||ria.ru^
+||1prime.ru^
+||iz.ru^
+||lenta.ru^
+||rg.ru^
+||vz.ru^
+||life.ru^
+||news-front.info^
+||southfront.org^
+||tsargrad.tv^
+||anna-news.info^
+||krymr.com^
+||kp.ru^
+||aif.ru^
+||vesti.ru^
