@@ -3,14 +3,12 @@
 ! Description: Blocks ads for FlashScore application
 ! Last modified: 14 Jan 2025 21:25 UTC
 ! Syntax: AdBlock
-! Number of entries: 8
+! Number of entries: 6
 !
 ||advert.livesportmedia.eu^
 ||mobiadvert.livesportmedia.eu^
-||c-amazon-adsystem.com^
-||s.amazon-adsystem.com^
-||aax.amazon-adsystem.com^
 ||ad.doubleclick.net^
 ||googleads4.g.doubleclick.net^
 ||adsafeprotected.com^
 ||survey.survicate.com^
+||amazon-adsystem.com^
