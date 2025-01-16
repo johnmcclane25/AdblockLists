@@ -332,3 +332,16 @@
 ||kp.ru^
 ||aif.ru^
 ||vesti.ru^
+||topcor.ru^
+||russkie.org^
+||dagpravda.ru^
+||otr-online.ru^
+||sevkavportal.ru^
+||nur-05.ru^
+||nikatv.ru^
+||informugra.ru^
+||edinstvo-news.ru^
+||gubtrk.ru^
+||grozny.tv^
+||yakutia-daily.ru^
+||riamo.ru^
