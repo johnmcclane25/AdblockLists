@@ -1,18 +1,19 @@
 [Adblock Plus]
 ! Title: Viber DNS Blocklist
 ! Description: Blocks Ads, Tracking, Metrics in Viber Desktop Application
-! Last modified: 17 Jan 2025 22:17 UTC
+! Last modified: 01 Feb 2025 13:53 UTC
 ! Syntax: AdBlock
-! Number of entries: 41
+! Number of entries: 38
 !
-||s-bid.rmp.rakuten.com^
 ||ads-d.viber.com^
 ||ads.aws.viber.com^
 ||ads.viber.com^
 ||api.mixpanel.com^
 ||api.taboola.com^
-||rmp.rakuten.com^
 ||s-imp.rmp.rakuten.com^
+||s-bid.rmp.rakuten.com^
+||fs-clk.rmp.rakuten.com^
+||s-clk.rmp.rakuten.com^
 ||ads.cdn.viber.com^
 ||ams1-mobile.adnxs.com^
 ||cdn.taboola.com^
@@ -26,7 +27,6 @@
 ||primis-d.openx.net^
 ||primis.tech^
 ||primisttd-d.openx.net^
-||s-clk.rmp.rakuten.com^
 ||s.pc.qq.com^
 ||securepubads.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
@@ -37,8 +37,6 @@
 ||player.avplayer.com^
 ||feed.avplayer.com^
 ||fpagead2.googlesyndication.com^
-||fs-clk.rmp.rakuten.com^
-||www.cust-service.com^
 ||venetia.iad.appboy.com^
 ||analytics.adjust.com^
 ||app-measurement.com^
