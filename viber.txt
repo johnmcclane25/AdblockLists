@@ -4,7 +4,7 @@
 ! Last modified: 01 Feb 2025 13:53 UTC
 ! Syntax: AdBlock
 ! Number of entries: 38
-!
+
 ||ads-d.viber.com^
 ||ads.aws.viber.com^
 ||ads.viber.com^
