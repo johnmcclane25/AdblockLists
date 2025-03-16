@@ -1,9 +1,9 @@
 [Adblock Plus]
 ! Title: Viber DNS Blocklist
 ! Description: Blocks Ads, Tracking, Metrics in Viber Desktop Application
-! Last modified: 01 Feb 2025 13:53 UTC
+! Last modified: 13 Mar 2025 13:53 UTC
 ! Syntax: AdBlock
-! Number of entries: 38
+! Number of entries: 37
 
 ||ads-d.viber.com^
 ||ads.aws.viber.com^
@@ -20,7 +20,6 @@
 ||data.mixpanel.com^
 ||fra1-ib.adnxs.com^
 ||images.taboola.com^
-||locp-ir.viber.com^
 ||mediation.adnxs.com^
 ||pagead2.googlesyndication.com^
 ||primis-amp.tech^
