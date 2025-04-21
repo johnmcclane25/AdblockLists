@@ -1,7 +1,7 @@
 ﻿[Adblock Plus]
 ! Title: Russian fake news & propaganda DNS Blocklist
 ! Description: Blocks Russian Disinformation & propaganda websites
-! Last modified: 14 Jan 2025 21:32 UTC
+! Last modified: 21 Apr 2025 20:29 UTC
 ! Syntax: AdBlock
 ! Number of entries: 327
 !
@@ -345,3 +345,15 @@
 ||grozny.tv^
 ||yakutia-daily.ru^
 ||riamo.ru^
+||russian.rt.com^
+||gazeta.ru^
+||tvzvezda.ru^
+||regnum.ru^
+||fondsk.ru^
+||riafan.ru^
+||politnavigator.net^
+||eadaily.com^
+||ren.tv^
+||rossaprimavera.ru^
+||pravda.ru^
+||kramola.info^

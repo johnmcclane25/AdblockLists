@@ -1,9 +1,9 @@
 [Adblock Plus]
 ! Title: Viber DNS Blocklist
 ! Description: Blocks Ads, Tracking, Metrics in Viber Desktop Application
-! Last modified: 13 Mar 2025 13:53 UTC
+! Last modified: 21 Mar 2025 20:33 UTC
 ! Syntax: AdBlock
-! Number of entries: 37
+! Number of entries: 42
 
 ||ads-d.viber.com^
 ||ads.aws.viber.com^
@@ -26,12 +26,9 @@
 ||primis-d.openx.net^
 ||primis.tech^
 ||primisttd-d.openx.net^
-||s.pc.qq.com^
 ||securepubads.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
 ||stats.viber.com^
-||sy.guanjia.qq.com^
-||syzs.qq.com^
 ||tracking.viber.com^
 ||player.avplayer.com^
 ||feed.avplayer.com^
@@ -43,3 +40,11 @@
 ||amazon-adsystem.com^
 ||app-analytics-services.com^
 ||googleads.g.doubleclick.net^
+||trk.viber.com^
+||events.viber.com^
+||analytics.viber.com^
+||analytics.events.viber.com^
+||partners.viber.com^
+||api.branch.io^
+||firebase-settings.crashlytics.com^
+||crashlyticsreports-pa.googleapis.com^
