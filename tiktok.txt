@@ -1,0 +1,32 @@
+[Adblock Plus]
+! Title: TikTok DNS Blocklist
+! Description: TikTok service
+! Last modified: 21 Apr 2025 20:11 UTC
+! Syntax: AdBlock
+! Number of entries: 24
+!
+||tiktok.com^
+||www.tiktok.com^
+||m.tiktok.com^
+||api.tiktok.com^
+||log.tiktok.com^
+||ads.tiktok.com^
+||mon.tiktok.com^
+||v16m.tiktokcdn.com^
+||v19.tiktokcdn.com^
+||api.tiktokv.com^
+||tiktokcdn.com^
+||tiktokcdn-us.com^
+||tiktokv.com^
+||v16a.tiktokcdn.com^
+||v16.tiktokcdn.com^
+||v19.tiktokcdn.com^
+||analytics.tiktok.com^
+||business.tiktok.com^
+||ads-sg.tiktok.com^
+||log.byteoversea.com^
+||mon.byteoversea.com^
+||byteoversea.com^
+||p16-tiktokcdn-com.akamaized.net^
+||p16-sign-va.tiktokcdn.com^
+||p16-va.tiktokcdn.com^
