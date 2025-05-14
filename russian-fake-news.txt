@@ -357,3 +357,6 @@
 ||rossaprimavera.ru^
 ||pravda.ru^
 ||kramola.info^
+||ntv.ru^
+||1tv.ru^
+||sputnikglobe.com^
