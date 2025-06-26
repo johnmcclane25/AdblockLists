@@ -1,14 +1,13 @@
 [Adblock Plus]
 ! Title: Viber DNS Blocklist
 ! Description: Blocks Ads, Tracking, Metrics in Viber Desktop Application
-! Last modified: 14 May 2025 11:38 UTC
+! Last modified: 26 Jun 2025 18:13 UTC
 ! Syntax: AdBlock
-! Number of entries: 38
+! Number of entries: 32
 
 ||ads-d.viber.com^
 ||ads.aws.viber.com^
 ||ads.viber.com^
-||api.mixpanel.com^
 ||api.taboola.com^
 ||s-imp.rmp.rakuten.com^
 ||s-bid.rmp.rakuten.com^
@@ -17,7 +16,6 @@
 ||ads.cdn.viber.com^
 ||ams1-mobile.adnxs.com^
 ||cdn.taboola.com^
-||data.mixpanel.com^
 ||fra1-ib.adnxs.com^
 ||images.taboola.com^
 ||mediation.adnxs.com^
@@ -28,19 +26,10 @@
 ||primisttd-d.openx.net^
 ||securepubads.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
-||stats.viber.com^
-||tracking.viber.com^
 ||fpagead2.googlesyndication.com^
-||analytics.adjust.com^
-||app-measurement.com^
 ||adsmoloco.com^
 ||amazon-adsystem.com^
 ||app-analytics-services.com^
 ||googleads.g.doubleclick.net^
-||trk.viber.com^
-||events.viber.com^
-||analytics.viber.com^
-||analytics.events.viber.com^
-||api.branch.io^
 ||mobile.anycast.adnxs.com^
 ||mobile.geo.appnexusgslb.net^
