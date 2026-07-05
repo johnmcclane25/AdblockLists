@@ -1,9 +1,9 @@
 ﻿[Adblock Plus]
 ! Title: Russian fake news & propaganda DNS Blocklist
-! Description: Blocks Russian Disinformation & propaganda websites
-! Last modified: 21 Apr 2025 20:29 UTC
+! Description: Blocks russian fake & propaganda websites
+! Last modified: 05 Jul 2026 00:00 UTC
 ! Syntax: AdBlock
-! Number of entries: 327
+! Number of entries: 393
 !
 ||lepoint.foo^
 ||obozrevatel.ltd^
@@ -360,3 +360,51 @@
 ||ntv.ru^
 ||1tv.ru^
 ||sputnikglobe.com^
+!
+! Rossiya Segodnya group & affiliated state media
+||ukraina.ru^
+||inosmi.ru^
+||baltnews.com^
+||rybar.ru^
+!
+! SVR/Kremlin-linked "think tank" disinformation outlets (US Treasury / EUvsDisinfo documented)
+||strategic-culture.org^
+||katehon.com^
+||journal-neo.org^
+||geopolitica.ru^
+||oneworld.press^
+||russia-insider.com^
+||theduran.com^
+!
+! Pro-Kremlin war propaganda & content-farm sites
+||rusvesna.su^
+||topwar.ru^
+||readovka.ru^
+||voiceofeurope.com^
+!
+! Doppelganger campaign - fake clones of Western media outlets (VIGINUM/EU DisinfoLab documented)
+||20minuts.com^
+||50statesoflie.com^
+||acrosstheline.press^
+||bild.asia^
+||bild.eu.com^
+||dailymail.cam^
+||dailymail.cfd^
+||dailymail.top^
+||faz.agency^
+||faz.ltd^
+||fox-news.in^
+||fox-news.top^
+||lemonde.ltd^
+||leparisien.ltd^
+||nd-aktuell.net^
+||rbk.media^
+||repubblica.life^
+||spiegel.agency^
+||sueddeutsche.co^
+||tagesspiegel.co^
+||washingtonpost.ltd^
+||welt.ltd^
+!
+! Portal Kombat / "Pravda" network hub (covers all regional subdomains)
+||news-pravda.com^
