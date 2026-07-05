@@ -1,9 +1,9 @@
 ﻿[Adblock Plus]
-! Title: Russian fake news & propaganda DNS Blocklist
+! Title: Russian fake news & propaganda DNS blocklist
 ! Description: Blocks russian fake & propaganda websites
-! Last modified: 05 Jul 2026 00:00 UTC
+! Last modified: 05 Jul 2026 23:09 UTC
 ! Syntax: AdBlock
-! Number of entries: 393
+! Number of entries: 435
 !
 ||lepoint.foo^
 ||obozrevatel.ltd^
@@ -107,7 +107,7 @@
 ||uva-projector.ru^
 ||vestiv.ru^
 ||vestivsredu.ru^
-||vestnikpr.ru^
+||vestikpr.ru^
 ||viborkazan.ru^
 ||vilyuisk-gorizont.ru^
 ||vitzori.ru^
@@ -360,14 +360,10 @@
 ||ntv.ru^
 ||1tv.ru^
 ||sputnikglobe.com^
-!
-! Rossiya Segodnya group & affiliated state media
 ||ukraina.ru^
 ||inosmi.ru^
 ||baltnews.com^
 ||rybar.ru^
-!
-! SVR/Kremlin-linked "think tank" disinformation outlets (US Treasury / EUvsDisinfo documented)
 ||strategic-culture.org^
 ||katehon.com^
 ||journal-neo.org^
@@ -375,14 +371,10 @@
 ||oneworld.press^
 ||russia-insider.com^
 ||theduran.com^
-!
-! Pro-Kremlin war propaganda & content-farm sites
 ||rusvesna.su^
 ||topwar.ru^
 ||readovka.ru^
 ||voiceofeurope.com^
-!
-! Doppelganger campaign - fake clones of Western media outlets (VIGINUM/EU DisinfoLab documented)
 ||20minuts.com^
 ||50statesoflie.com^
 ||acrosstheline.press^
@@ -405,6 +397,46 @@
 ||tagesspiegel.co^
 ||washingtonpost.ltd^
 ||welt.ltd^
-!
-! Portal Kombat / "Pravda" network hub (covers all regional subdomains)
 ||news-pravda.com^
+||smotrim.ru^
+||vgtrk.ru^
+||tvc.ru^
+||m24.ru^
+||5-tv.ru^
+||otr-online.ru^
+||360tv.ru^
+||pnp.ru^
+||vpk.name^
+||sdelanounas.ru^
+||rua.gr^
+||opg.ru^
+||warfiles.ru^
+||fondsk.ru^
+||inforeactor.ru^
+||politexpert.net^
+||nevnov.ru^
+||politros.com^
+||whoswho.com.ua^
+||sputniknews.cn^
+||sputniknews.us^
+||sputniknews.gr^
+||sputnik.by^
+||sputnik.kz^
+||rtvi.com^
+||profile.ru^
+||fedpress.ru^
+||ura.news^
+||vzglyad.ru^
+||waronfakes.com^
+||infobrics.org^
+||brics-info.org^
+||rt-online.ru^
+||antifashist.com^
+||alternatio.org^
+||imperiya.by^
+||fondsk.ru^
+||rubaltic.ru^
+||odnarodyna.org^
+||stoletie.ru^
+||ritmeurasia.org^
+||nasledie.ru^
