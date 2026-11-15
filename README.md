@@ -1,6 +1,6 @@
 # AdblockLists
 
-A collection of AdBlock Plus / DNS-syntax blocklists for blocking Russian disinformation & propaganda websites, and for blocking ads or entire apps/services (FlashScore, TikTok, YouTube).
+A collection of AdBlock Plus / DNS-syntax blocklists for blocking Russian disinformation & propaganda websites, for blocking telemetry of Russian apps, and for blocking ads or entire apps/services (FlashScore, TikTok, YouTube).
 
 Each list is a plain-text file using the standard AdBlock domain-blocking syntax (`||domain^`) and can be added directly as a custom filter list to any AdBlock Plus-compatible ad blocker, or to DNS-level blockers (Pi-hole, AdGuard Home, NextDNS, etc.) that support the same format.
 
@@ -9,6 +9,7 @@ Each list is a plain-text file using the standard AdBlock domain-blocking syntax
 | File | Title | Purpose | Entries |
 |---|---|---|---|
 | [`russian-fake-news.txt`](russian-fake-news.txt) | Russian fake news & propaganda DNS Blocklist | Blocks Russian disinformation, state media, and propaganda websites | 435 |
+| [`apps.txt`](apps.txt) | Russian Apps Telemetry DNS Blocklist | Blocks telemetry, analytics & VPN-status reporting of Russian apps (Yandex, VK/Mail.ru, MAX, Ozon, Wildberries, Sber, MTS, 2GIS, Avito, RuStore) | 40 |
 | [`tiktok.txt`](tiktok.txt) | TikTok DNS Blocklist | Blocks the TikTok service (app domains, CDNs, analytics) | 24 |
 | [`youtube.txt`](youtube.txt) | YouTube & YouTube Kids DNS Blocklist | Blocks access to YouTube & YouTube Kids services | 20 |
 | [`flashscore.txt`](flashscore.txt) | FlashScore APP DNS Blocklist | Blocks ads served inside the FlashScore application | 7 |

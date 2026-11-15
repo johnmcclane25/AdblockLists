@@ -1,0 +1,54 @@
+[Adblock Plus]
+! Title: Russian Apps Telemetry DNS Blocklist
+! Description: Blocks telemetry, analytics & ad trackers of Russian apps (Yandex, VK/Mail.ru, Ozon, Wildberries, Sber, MTS, 2GIS, Avito, RuStore, MAX)
+! Last modified: 15 Nov 2026 14:32 UTC
+! Syntax: AdBlock
+! Number of entries: 40
+!
+! Yandex AppMetrica & Telemetry
+||appmetrica.yandex.ru^
+||appmetrica.yandex.com^
+||report.appmetrica.yandex.net^
+||startup.mobile.yandex.net^
+||an.yandex.ru^
+||yastatic.net^
+||mc.yandex.ru^
+||mc.yandex.com^
+||log.strm.yandex.ru^
+||api.mobmet.yandex.ru^
+! VK / Mail.ru MyTracker & Analytics
+||tracker.my.com^
+||mytracker.mail.ru^
+||top-fwz1.mail.ru^
+||r.mail.ru^
+||rs.mail.ru^
+||ad.mail.ru^
+||trg.mail.ru^
+||stats.vk-portal.net^
+||t.vk.com^
+! Ozon Telemetry & Analytics
+||xapi.ozon.ru^
+||tracker.ozon.ru^
+||analytics.ozon.ru^
+||sentry.ozon.ru^
+! Wildberries Telemetry
+||analytics.wildberries.ru^
+||stat.wildberries.ru^
+||log.wildberries.ru^
+! Sber & Megamarket Analytics
+||analytics.sberbank.ru^
+||metrics.sberbank.ru^
+||clickstream.sberbank.ru^
+||analytics.megamarket.ru^
+! MTS, 2GIS, Avito, RuStore Telemetry
+||metrics.mts.ru^
+||tracker.2gis.ru^
+||stat.2gis.ru^
+||stats.avito.ru^
+||clickstream.avito.ru^
+||stats.rustore.ru^
+||telemetry.rustore.ru^
+! MAX messenger (VK) VPN-status & telemetry channels (Interseclab, Sep 2026)
+||trace-flow.ru^
+||sdk-api.apptracer.ru^
+||tracker-api.vk-analytics.ru^
