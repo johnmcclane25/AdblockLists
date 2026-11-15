@@ -8,8 +8,8 @@ Each list is a plain-text file using the standard AdBlock domain-blocking syntax
 
 | File | Title | Purpose | Entries |
 |---|---|---|---|
-| [`russian-fake-news.txt`](russian-fake-news.txt) | Russian fake news & propaganda DNS Blocklist | Blocks Russian disinformation, state media, and propaganda websites | 435 |
-| [`apps.txt`](apps.txt) | Russian Apps Telemetry DNS Blocklist | Blocks telemetry, analytics & VPN-status reporting of Russian apps (Yandex, VK/Mail.ru, MAX, Ozon, Wildberries, Sber, MTS, 2GIS, Avito, RuStore) | 40 |
+| [`russian-fake-news.txt`](russian-fake-news.txt) | Russian fake news & propaganda DNS Blocklist | Blocks Russian disinformation, state media, and propaganda websites | 1376 |
+| [`apps.txt`](apps.txt) | Russian Apps Telemetry DNS Blocklist | Blocks telemetry, analytics & VPN-status reporting of Russian apps (Yandex, VK/Mail.ru, MAX, Ozon, Wildberries, Sber, MTS, 2GIS, Avito, RuStore) | 41 |
 | [`tiktok.txt`](tiktok.txt) | TikTok DNS Blocklist | Blocks the TikTok service (app domains, CDNs, analytics) | 24 |
 | [`youtube.txt`](youtube.txt) | YouTube & YouTube Kids DNS Blocklist | Blocks access to YouTube & YouTube Kids services | 20 |
 | [`flashscore.txt`](flashscore.txt) | FlashScore APP DNS Blocklist | Blocks ads served inside the FlashScore application | 7 |
@@ -22,10 +22,11 @@ The largest and most actively maintained list in this repo. It targets:
 - **SVR/Kremlin-linked "think tank" outlets** — sites documented by the US Treasury and EUvsDisinfo as disinformation fronts (Strategic Culture Foundation, Katehon, New Eastern Outlook, Geopolitica, OneWorld, Russia Insider, The Duran, RUBaltic, Ritm Eurasia, Fond Strategicheskoi Kultury).
 - **War propaganda & content farms** — Rusvesna, Military Review (topwar.ru), Readovka, Voice of Europe, Warfiles, War on Fakes.
 - **Fake regional news networks** — large clusters of look-alike "-news.net"/"-news.ru" and "info*.ru" sites (the InfoRos network) posing as independent local Russian/Ukrainian outlets.
-- **Doppelgänger campaign clones** — typosquatted domains impersonating legitimate Western outlets (Spiegel, Süddeutsche Zeitung, Bild, Le Monde, Washington Post, FAZ, Daily Mail, Fox News, etc.), documented by VIGINUM and EU DisinfoLab.
-- **Portal Kombat / "Pravda" network** — `news-pravda.com`, whose subdomains redistribute pro-Kremlin content across dozens of countries and languages.
+- **Doppelgänger campaign clones** — typosquatted domains impersonating legitimate Western outlets (Spiegel, Süddeutsche Zeitung, Bild, Le Monde, Washington Post, FAZ, Daily Mail, Fox News, etc.), documented by VIGINUM and EU DisinfoLab, including the full VIGINUM RRN domain list and the 32 domains seized by the US DOJ in September 2024.
+- **Portal Kombat / "Pravda" network** — `news-pravda.com`, whose subdomains redistribute pro-Kremlin content across dozens of countries and languages, plus the `pravda-XX.com` language sites and regional Ukrainian/Baltic portals listed by VIGINUM.
+- **Storm-1516 / CopyCop** — fake "local news" sites in the US, France, Germany, Canada and Armenia linked to John Mark Dougan's operation, documented by Recorded Future, DFRLab and the Gnida Project.
 
-Domains are only added when backed by a credible, named source (EUvsDisinfo, DFRLab, VIGINUM/EU DisinfoLab, US Treasury sanctions, Media Bias/Fact Check, etc.) to avoid over-blocking legitimate sites.
+Domains are only added when backed by a credible, named source (EUvsDisinfo, DFRLab, VIGINUM/EU DisinfoLab, US Treasury sanctions, US DOJ, Recorded Future, Media Bias/Fact Check, etc.) to avoid over-blocking legitimate sites.
 
 ## Usage
 

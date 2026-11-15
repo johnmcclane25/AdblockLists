@@ -1,9 +1,9 @@
 [Adblock Plus]
 ! Title: Russian Apps Telemetry DNS Blocklist
 ! Description: Blocks telemetry, analytics & ad trackers of Russian apps (Yandex, VK/Mail.ru, Ozon, Wildberries, Sber, MTS, 2GIS, Avito, RuStore, MAX)
-! Last modified: 15 Nov 2026 14:32 UTC
+! Last modified: 15 Nov 2026 14:53 UTC
 ! Syntax: AdBlock
-! Number of entries: 40
+! Number of entries: 41
 !
 ! Yandex AppMetrica & Telemetry
 ||appmetrica.yandex.ru^
@@ -48,7 +48,9 @@
 ||clickstream.avito.ru^
 ||stats.rustore.ru^
 ||telemetry.rustore.ru^
-! MAX messenger (VK) VPN-status & telemetry channels (Interseclab, Sep 2026)
+! MAX messenger (VK) VPN-status & telemetry channels (Interseclab Sep 2026, RKS Global Apr 2026)
 ||trace-flow.ru^
-||sdk-api.apptracer.ru^
-||tracker-api.vk-analytics.ru^
+||apptracer.ru^
+||vk-analytics.ru^
+! 2GIS VPN detection endpoint (RKS Global, Apr 2026)
+||relay-api.eu.2gis.com^
